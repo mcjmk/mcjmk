@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-<!--
-**mcjmk/mcjmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-Here are some ideas to get you started:
--->
-
+## Technology I'm Familiar With
+### Languages:
+<div align="start">
+    <img src="Imgs/Python.png" height="50px">
+    <img src="Imgs/Java.png" height="50px">
+    <img src="Imgs/C.png" height="50px">
+    <img src="Imgs/CPP.png" height="50px">
+</div>
