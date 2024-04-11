@@ -7,7 +7,7 @@
     <img src="img/Java.png" height="50px" title="Java">
     <img src="img/C.png" height="50px" title="C">
     <img src="img/CPP.png" height="50px" title="C++">
-    <img src="img/C#.png" height="50px" title="C#">
+    <img src="img/CSharp.png" height="50px" title="C#">
 </div>
 
 ### Web Technologies:
