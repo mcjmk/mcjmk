@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hello! 👋
+I'm Python, algorithms and machine learning enthustiast ;) 
 
 ## Technology I'm Familiar With
 ### Backend and General Purpose Languages:
@@ -16,3 +17,5 @@
     <img src="img/CSS.png" height="50px" title="CSS">
     <img src="img/JS.png" height="50px" title="JS">
 </div>
+
+If you have something I might find interesting, feel free to contact me here: [mcj.mezyk@gmail.com]
