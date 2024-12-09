@@ -1,8 +1,8 @@
 # Hello! 👋
-I'm Python, algorithms and machine learning enthustiast ;) 
+I'm Python, algorithms and machine learning enthusiast ;) 
 
-## Technology I'm Familiar With
-### Backend and General Purpose Languages:
+## Technologies I'm Familiar With
+### Backend and General-Purpose Languages:
 <div align="start">
     <img src="img/C.png" height="50px" title="C">
     <img src="img/CPP.png" height="50px" title="C++">
@@ -18,4 +18,4 @@ I'm Python, algorithms and machine learning enthustiast ;)
     <img src="img/JS.png" height="50px" title="JS">
 </div>
 
-If you have something I might find interesting, feel free to contact me here: [mcj.mezyk@gmail.com]
+If you have something I might find interesting, feel free to contact me here: [mcj.mezyk@gmail.com](mailto:mcj.mezyk@gmail.com)
