@@ -1,5 +1,6 @@
 # Hello! 👋
 I'm a Fullstack Developer with an algorithmic and AI background.
+
 Huge fan of React, TailwindCSS, and Python.
 
 ## Technologies I'm Familiar With
