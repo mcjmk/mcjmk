@@ -1,5 +1,6 @@
 # Hello! 👋
-I'm Python, algorithms and machine learning enthusiast ;) 
+I'm a Fullstack Developer with an algorithmic and AI background.
+Huge fan of React, TailwindCSS, and Python.
 
 ## Technologies I'm Familiar With
 ### Backend and General-Purpose Languages:
