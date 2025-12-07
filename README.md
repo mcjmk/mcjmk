@@ -7,11 +7,5 @@ React, TypeScript, TailwindCSS, Next.js, C++, Python, PostgreSQL, Docker
 ## 💡 Technologies I'm Familiar With
 C, C#, Java, Bash
 
-
-## 🚀 Currently Interested In
-Competitive Programming, Web Development
-
-AI and Rust - after ICPC
-
 ## 📬 Let's Connect!
 If you have something I might find interesting, feel free to contact me here: [mcj.mezyk@gmail.com](mailto:mcj.mezyk@gmail.com)
